@@ -19,10 +19,10 @@ Plataforma full stack para el intercambio de divisas, con autenticación JWT, ch
 
 Stack: React, JavaScript, Python, Flask, PostgreSQL.
 
-[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-0A66C2?style=for-the-badge&logo=render&logoColor=white)](https://sample-service-name-0y1z.onrender.com/)
+[![🚀 HTH page](https://img.shields.io/badge/HandToHand-0A66C2?style=for-the-badge&logo=render&logoColor=white)](https://sample-service-name-0y1z.onrender.com/)
 ### GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MarcosCuriel&show_icons=true&rank_icon=github&hide_border=true&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=MarcosCuriel&mode=weekly&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarcosCuriel&theme=transparent)](https://git.io/streak-stats)
 
 > “Siempre hay algo nuevo que aprender y mejorar en cada línea de código.”
