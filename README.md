@@ -23,6 +23,5 @@ Stack: React, JavaScript, Python, Flask, PostgreSQL.
 ### GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MarcosCuriel&show_icons=true&rank_icon=github&hide_border=true&theme=transparent)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarcosCuriel&theme=transparent)](https://git.io/streak-stats)
 
 > “Siempre hay algo nuevo que aprender y mejorar en cada línea de código.”
